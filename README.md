@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ADtech software.
+- 🔭 I’m currently working on interview skills and learning new technologies.
 - 🌱 I’m currently learning golang and interview skills.
 - 👯 I’m looking to collaborate on nestjs and react native project.
 - 🤔 I’m looking for help with interview skills.
